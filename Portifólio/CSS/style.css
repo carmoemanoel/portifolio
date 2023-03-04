@@ -22,6 +22,12 @@ body{
 
 .left-login > h1{
     color:#77ffc0;
+    font-size: 50px;
+}
+
+.left-img{
+    font-size: 3vw;
+    width: 35vw;
 }
 
 .navegacao{
@@ -33,5 +39,13 @@ body{
 }
 
 .card-navegacao{
-    
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #2f2841;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
 }
